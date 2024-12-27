@@ -55,7 +55,7 @@ function aesDecryptFromBase64Hex(encodedValue, jwtToken, fixedIV) {
 
 // Sabit IV örneği
 const fixedIV = '0123456789abcdef0123456789abcdef'; // 16 baytlık sabit IV
-const jwtToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwia2V5IjoiZHd3ZHkyMzR5aHNmYXNkNDMwMnJuMGUyNTNyNzloZSJ9.Q9vfO00xO9Y8_vduMamhiPPsD9Bx-QZxX55mjkh5CDM";
+const jwtToken = "!!!!";
 
 const encrypted = "ASNFZ4mrze8BI0VniavN726Ls5a7VlIM4MXU/GgLfcW3GlKDZ+c/CSQ7Mt1M14Q2ywgfEfKrHp4X"
 
